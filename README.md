@@ -58,7 +58,7 @@ DocAISearch/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-user/DocAISearch.git
+git clone https://github.com/yoni241/DocAISearch.git
 cd DocAISearch
 ```
 
